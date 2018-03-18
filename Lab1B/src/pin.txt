@@ -1,0 +1,11 @@
+to			,	location
+clk			,	PIN_Y2
+rst_n		,	PIN_M23
+clr_n		,	PIN_AB28
+stop_n		,	PIN_AC28
+M			,	PIN_AC27
+
+
+counter[0]	,	PIN_E21
+counter[1]	,	PIN_E22
+counter[2]	,	PIN_E25
