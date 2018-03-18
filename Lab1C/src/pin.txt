@@ -1,0 +1,18 @@
+to			,	location
+clk			,	PIN_Y2
+rst_n		,	PIN_M23
+clr_n		,	PIN_AB28
+stop_n		,	PIN_AC28
+
+g1			,	PIN_AD27
+g2			,	PIN_AB27
+g3			,	PIN_AC26
+	
+y[0]		,	PIN_E21
+y[1]		,	PIN_E22
+y[2]		,	PIN_E25
+y[3]		,	PIN_E24
+y[4]		,	PIN_H21
+y[5]		,	PIN_G20
+y[6]		,	PIN_G22
+y[7]		,	PIN_G21
